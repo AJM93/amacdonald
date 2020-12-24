@@ -15,7 +15,7 @@ a {
   font-size: 25px;
 }
 #contact strong {
-  color: #A46CFF;
+  color: #9c60ab;
 }
 
 @media (min-width: 1024px) {
@@ -93,11 +93,11 @@ a {
 }
 
 .middle-blue-font {
-  color: #A46CFF !important;
+  color: #9c60ab !important;
 }
 
 .middle-blue-background {
-  background-color: #A46CFF;
+  background-color: #9c60ab;
 }
 
 .dark-blue-font {
